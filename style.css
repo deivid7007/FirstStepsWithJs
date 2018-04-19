@@ -1,0 +1,30 @@
+    h1
+    {
+        color: #008CBA;
+    }
+    img 
+    {
+        width: 720px;
+        height: 720px;
+    }
+
+    button 
+    {
+        background-color: #008CBA;
+        border: solid;
+        color: white;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        padding: 14px 40px;
+        width: 30%;
+    }
+
+    button:hover
+    {
+    background-color: white;
+    color:#008CBA;
+    border-color: #008CBA;
+    transition-duration: 0.4s
+    }
